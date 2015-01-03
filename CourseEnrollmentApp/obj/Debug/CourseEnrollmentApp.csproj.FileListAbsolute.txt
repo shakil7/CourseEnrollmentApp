@@ -1,0 +1,9 @@
+c:\users\pc21\documents\visual studio 2013\Projects\CourseEnrollmentApp\CourseEnrollmentApp\bin\Debug\CourseEnrollmentApp.exe.config
+c:\users\pc21\documents\visual studio 2013\Projects\CourseEnrollmentApp\CourseEnrollmentApp\bin\Debug\CourseEnrollmentApp.exe
+c:\users\pc21\documents\visual studio 2013\Projects\CourseEnrollmentApp\CourseEnrollmentApp\bin\Debug\CourseEnrollmentApp.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\CourseEnrollmentApp\CourseEnrollmentApp\obj\Debug\CourseEnrollmentApp.csprojResolveAssemblyReference.cache
+c:\users\pc21\documents\visual studio 2013\Projects\CourseEnrollmentApp\CourseEnrollmentApp\obj\Debug\CourseEnrollmentApp.Properties.Resources.resources
+c:\users\pc21\documents\visual studio 2013\Projects\CourseEnrollmentApp\CourseEnrollmentApp\obj\Debug\CourseEnrollmentApp.csproj.GenerateResource.Cache
+c:\users\pc21\documents\visual studio 2013\Projects\CourseEnrollmentApp\CourseEnrollmentApp\obj\Debug\CourseEnrollmentApp.exe
+c:\users\pc21\documents\visual studio 2013\Projects\CourseEnrollmentApp\CourseEnrollmentApp\obj\Debug\CourseEnrollmentApp.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\CourseEnrollmentApp\CourseEnrollmentApp\obj\Debug\CourseEnrollmentApp.CourseEnrollmentUI.resources
